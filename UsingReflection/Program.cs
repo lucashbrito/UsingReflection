@@ -45,6 +45,7 @@ namespace UsingReflection
 
         static void AccessingaProperty()
         {
+
             // create a new instance
             var person = new Person() { Name = "Lucas" };
             //get a type
